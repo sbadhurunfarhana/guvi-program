@@ -3,7 +3,7 @@ if (a.isalpha()):
     if(a=="a" or a=="e" or a=="i" or a=="o" or a=="u"):
         print("vowel")
     else:
-        print("consonant")
+        print("Consonant")
 else:
     print("invalid")
 
