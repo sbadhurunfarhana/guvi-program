@@ -1,4 +1,4 @@
-na+int(raw_input())
+na=int(raw_input())
 if(na>0):
     print("Positive")
 elif(na<0):
